@@ -1,5 +1,5 @@
 # Roblox Multi-Instance by erikpog757
-#This program allows you to run multiple Roblox instances simultaneously.
+# This program allows you to run multiple Roblox instances simultaneously.
 
 # Usage Instructions
 Launch the build or release available on this GitHub repository to start the program.
