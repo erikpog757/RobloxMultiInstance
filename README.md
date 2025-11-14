@@ -1,14 +1,13 @@
-# RobloxMultiInstance
-# How to use multi instance
-1. The program automatically launches the first Roblox window.
+# Roblox Multi-Instance by erikpog757
+#This program allows you to run multiple Roblox instances simultaneously.
 
-2. Then, open the second or multiple additional Roblox windows either through the website or by launching them normally.
+# Usage Instructions
+Launch the build or release available on this GitHub repository to start the program.
 
-3. Log into a different Roblox account in each of the new windows.
+For best results, use the Alt Manager from the official Roblox website when logging into different accounts.
 
-4. Use the multiple instances as you need.
+Opening Roblox normally without using an Alt Manager will cause you to be forcibly logged out of your account.
 
-This multi instance really works after the latest Roblox patch.
+It is recommended not to close the program during active sessions to avoid interruptions or account issues.
 
-# Disclaimer
-This program does not cause bans, but I am not responsible for any consequences. Use it at your own risk.
+# If you follow these guidelines, you can manage multiple Roblox accounts smoothly and securely.
