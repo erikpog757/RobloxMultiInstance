@@ -1,20 +1,25 @@
-# Roblox Multi-Instance by erikpog757
+# Roblox Multi-Instance
 
-### Features
+Run multiple Roblox clients at once.
 
-- Designed for stable multi-instance usage with Roblox  
-- Efficiently manages Roblox processes and shared resources  
-- Blocks the Roblox cookie file to prevent incorrect game loading, game crashes, and sound bugs  
+**This repo is archived and no longer maintained.**
 
-### How to Use
+## Features
 
-1. Run the program.  
-2. Open Roblox games with multi-instance support through the Roblox website’s alternate account manager (recommended) or manually log into your accounts.  
-3. Keep the program open throughout your gaming sessions to maintain stability and avoid conflicts between multiple instances.  
-4. Play Roblox normally once setup.
+- Multiple Roblox instances at the same time
+- Handles Roblox processes and shared resources
+- Locks the cookie file so you don't join the wrong game, crash, or get sound bugs
 
-### Important Notes
+## Usage
 
-- This program’s functionality may be detected by Roblox’s security systems, which could lead to warnings or restrictions on your accounts.  
-- Use this software responsibly and be aware of the inherent risks.  
-- Continuous operation of the program is essential for consistent multi-instance support.
+1. Start the program before opening Roblox
+2. Open games through the Roblox alt account switcher or log in manually
+3. Keep it running while you play
+
+## Warning
+
+Roblox considers multi-instance an exploit. According to Roblox staff (July 2025), they don't ban for it right now, but that could change at any time. Use it on accounts you're okay with losing.
+
+## Disclaimer
+
+Provided as is, no warranty. Not affiliated with Roblox Corporation. Whatever happens to your accounts is on you.
